@@ -1,0 +1,47 @@
+.main{
+	width: 700px;
+	min-height: 200px;
+	background-color: white;
+	padding: 15px;
+	border: solid black 2px; 
+	margin: auto;
+}
+
+.text{
+	text-align: center;
+}
+
+body{
+	background-color: grey;
+}
+
+.img{
+	width: 20px;
+	height: 20px;
+	transition-duration: 1s;
+}
+
+.img:hover{
+	width: 550px;
+	height: 320px;
+}
+
+.link{
+	color: blue;
+	text-decoration: none;
+}
+
+.link:hover{
+	color: red;
+	text-decoration: none;
+}
+
+.imgtwo{
+	width: 685px;
+	display: block;
+	margin: auto;
+}
+
+.pod{
+	font-size: 12px;
+}
